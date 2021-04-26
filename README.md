@@ -1,5 +1,5 @@
 # APPS1
-Prácticas y cosas para APPS1
+Prácticas y cosas para Desarrollo de Aplicaciones para Dispositivos Móviles 1
 
 Prácticas individuales por Gerardo Padilla
 
